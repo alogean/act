@@ -46,6 +46,21 @@ Selon Google Scholar, ses travaux ont été **cités plusieurs milliers de fois*
 
 ---
 
+## Publications scientifiques vérifiées (haute confiance)
+
+> *Ces deux références ont été recoupées et vérifiées de façon contradictoire sur plusieurs index indépendants (PubMed, ScienceDirect, ACBS/ContextualScience, HAL, ResearchGate, PsycNet) — niveau de confiance élevé.*
+
+1. **Villatte M., Monestès J.-L., McHugh L., Freixa i Baqué E. & Loas G. (2010).** *Adopting the perspective of another in belief attribution: Contribution of Relational Frame Theory to the understanding of impairments in schizophrenia.* **Journal of Behavior Therapy and Experimental Psychiatry, 41(2), 125-134.**
+   - Application de la **Théorie des Cadres Relationnels (RFT)** à la prise de perspective et à la théorie de l'esprit dans la **schizophrénie**.
+   - Étude empirique : 15 patients schizophrènes vs 15 témoins appariés en âge. Le **répondre déictique complexe** prédisait la précision dans les deux groupes, soutenant l'approche RFT de la théorie de l'esprit.
+   - Réf. : [PubMed PMID 20034611](https://pubmed.ncbi.nlm.nih.gov/20034611/) · [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0005791609000925)
+
+2. **Villatte M. & Monestès J.-L. (2010).** *La Théorie des Cadres Relationnels : la place du langage dans la Thérapie d'Acceptation et d'Engagement.* **Revue Québécoise de Psychologie, 31(3), 85-104.**
+   - Article francophone de référence présentant la **RFT comme fondement théorique et expérimental de l'ACT**, et le rôle du **langage** dans la souffrance (évitement expérientiel persistant) comme dans la thérapie (outil adaptatif, « moteur » du changement).
+   - Réf. : [ACBS / ContextualScience](https://contextualscience.org/publications/la_th_orie_des_cadres_relationnels_la_place_du_lan) · [HAL hal-01909428](https://hal.science/hal-01909428)
+
+---
+
 ## Contribution à l'ACT et aux TCC de 3ᵉ vague en France
 
 - A largement contribué à **faire connaître l'ACT dans l'espace francophone**, à la fois par ses **ouvrages de référence** (le manuel co-écrit avec M. Villatte fait partie des premiers en français) et par son activité d'**enseignement et de formation**.
